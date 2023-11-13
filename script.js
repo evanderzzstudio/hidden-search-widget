@@ -1,3 +1,3 @@
-const { isDynamicMetadataRoute } = require("next/dist/build/analysis/get-page-static-info");
-
-isDynamicMetadataRoute
+const search = document.querySelector('.search')
+const btn = document.querySelector('.btn')
+const input = document.querySelector('.input')
